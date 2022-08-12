@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'bold';
+    src: url(/font/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: 'medium';
+    src: url(/font/Inter-Medium.ttf);
+}
+@font-face {
+    font-family: 'regular';
+    src: url(/font/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: 'light';
+    src: url(/font/Inter-Light.ttf);
+}
+@font-face {
+    font-family: 'semibold';
+    src: url(/font/Inter-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'thin';
+    src: url(/font/Inter-Thin.ttf);
+}
+@font-face {
+    font-family: 'extrabold';
+    src: url(/font/Inter-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'rbold';
+    src: url(/font/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: 'rregular';
+    src: url(/font/Roboto-Regular.ttf);
+}
